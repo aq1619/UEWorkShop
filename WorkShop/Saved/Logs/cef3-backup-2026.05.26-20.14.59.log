@@ -1,0 +1,15 @@
+[26864:30796:0526/202909.441:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[26864:36896:0526/202910.082:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[26864:30796:0526/202910.328:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[36716:39416:0526/203012.529:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5352B472135B8B225CB7D0973E713E6B will be ignored
+[26864:28584:0526/203014.466:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[26864:30796:0526/205107.546:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26864:28584:0526/211945.741:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[26864:28584:0526/212956.253:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[26864:30796:0526/214302.718:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26864:30796:0526/214307.711:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26864:30796:0526/214528.743:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26864:30796:0526/215808.053:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26864:30796:0526/215813.237:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26864:30796:0526/220004.088:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[26864:30796:0526/221459.422:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

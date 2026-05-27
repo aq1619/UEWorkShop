@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.WorkShop.gen.cpp.obj": [
+			"PlayerCharacter.gen.cpp.obj",
+			"WorkShop.init.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-WorkShop.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/ylvas/Documents/Unreal Projects/WorkShop/Intermediate/Build/Win64/x64/WorkShopEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h.obj"
+"C:/Users/ylvas/Documents/Unreal Projects/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/Module.WorkShop.gen.cpp.obj"
+"C:/Users/ylvas/Documents/Unreal Projects/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/WorkShop.cpp.obj"
+"C:/Users/ylvas/Documents/Unreal Projects/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/PlayerCharacter.cpp.obj"
+"C:/Users/ylvas/Documents/Unreal Projects/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/PerModuleInline.gen.cpp.obj"
+"C:/Users/ylvas/Documents/Unreal Projects/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/Default.rc2.res"
+/OUT:"C:/Users/ylvas/Documents/Unreal Projects/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/UnrealEditor-WorkShop.lib"

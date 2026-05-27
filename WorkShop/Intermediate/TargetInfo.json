@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "WorkShop",
+			"Path": "..\\Source\\WorkShop.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "WorkShopEditor",
+			"Path": "..\\Source\\WorkShopEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

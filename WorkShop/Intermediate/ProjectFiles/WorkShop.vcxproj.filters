@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\WorkShop.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\WorkShopEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\WorkShop">
+      <UniqueIdentifier>{5C37EDE7-5D46-31C6-A0B5-A8BD8D7D9A31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\WorkShop\Private">
+      <UniqueIdentifier>{03A4D090-0E4F-3A52-8E79-A79AFD056558}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\WorkShop\Private\PlayerCharacter.cpp">
+      <Filter>Source\WorkShop\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\WorkShop\Public">
+      <UniqueIdentifier>{D1DC68D6-68FC-33EC-8B0A-219DFBFD0B71}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\WorkShop\Public\PlayerCharacter.h">
+      <Filter>Source\WorkShop\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\WorkShop\WorkShop.Build.cs">
+      <Filter>Source\WorkShop</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\WorkShop\WorkShop.cpp">
+      <Filter>Source\WorkShop</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WorkShop\WorkShop.h">
+      <Filter>Source\WorkShop</Filter>
+    </ClInclude>
+    <None Include="..\..\WorkShop.uproject" />
+  </ItemGroup>
+</Project>
