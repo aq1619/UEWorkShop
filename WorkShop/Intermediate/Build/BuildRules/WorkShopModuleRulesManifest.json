@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\ylvas\\Documents\\Unreal Projects\\WorkShop\\Source\\WorkShop\\WorkShop.Build.cs",
-		"C:\\Users\\ylvas\\Documents\\Unreal Projects\\WorkShop\\Source\\WorkShop.Target.cs",
-		"C:\\Users\\ylvas\\Documents\\Unreal Projects\\WorkShop\\Source\\WorkShopEditor.Target.cs"
+		"C:\\Users\\ylvas\\source\\repos\\UEWorkShop\\WorkShop\\Source\\WorkShop\\WorkShop.Build.cs",
+		"C:\\Users\\ylvas\\source\\repos\\UEWorkShop\\WorkShop\\Source\\WorkShop.Target.cs",
+		"C:\\Users\\ylvas\\source\\repos\\UEWorkShop\\WorkShop\\Source\\WorkShopEditor.Target.cs"
 	],
 	"EngineVersion": "5.7.4"
 }

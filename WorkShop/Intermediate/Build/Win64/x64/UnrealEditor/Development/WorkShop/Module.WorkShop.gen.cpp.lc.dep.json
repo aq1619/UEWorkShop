@@ -1,13 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\ylvas\\documents\\unreal projects\\workshop\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\workshop\\module.workshop.gen.cpp",
+        "Source": "c:\\users\\ylvas\\source\\repos\\ueworkshop\\workshop\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\workshop\\module.workshop.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\ylvas\\documents\\unreal projects\\workshop\\intermediate\\build\\win64\\x64\\workshopeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_4.h.pch",
+        "PCH": "c:\\users\\ylvas\\source\\repos\\ueworkshop\\workshop\\intermediate\\build\\win64\\x64\\workshopeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_4.h.pch",
         "Includes": [
-            "c:\\users\\ylvas\\documents\\unreal projects\\workshop\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\workshop\\definitions.workshop.h",
-            "c:\\users\\ylvas\\documents\\unreal projects\\workshop\\intermediate\\build\\win64\\unrealeditor\\inc\\workshop\\uht\\playercharacter.gen.cpp",
-            "c:\\users\\ylvas\\documents\\unreal projects\\workshop\\source\\workshop\\public\\playercharacter.h",
+            "c:\\users\\ylvas\\source\\repos\\ueworkshop\\workshop\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\workshop\\definitions.workshop.h",
+            "c:\\users\\ylvas\\source\\repos\\ueworkshop\\workshop\\intermediate\\build\\win64\\unrealeditor\\inc\\workshop\\uht\\playercharacter.gen.cpp",
+            "c:\\users\\ylvas\\source\\repos\\ueworkshop\\workshop\\source\\workshop\\public\\playercharacter.h",
             "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
             "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
             "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
@@ -17,8 +17,8 @@
             "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
             "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
             "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
-            "c:\\users\\ylvas\\documents\\unreal projects\\workshop\\intermediate\\build\\win64\\unrealeditor\\inc\\workshop\\uht\\playercharacter.generated.h",
-            "c:\\users\\ylvas\\documents\\unreal projects\\workshop\\intermediate\\build\\win64\\unrealeditor\\inc\\workshop\\uht\\workshop.init.gen.cpp"
+            "c:\\users\\ylvas\\source\\repos\\ueworkshop\\workshop\\intermediate\\build\\win64\\unrealeditor\\inc\\workshop\\uht\\playercharacter.generated.h",
+            "c:\\users\\ylvas\\source\\repos\\ueworkshop\\workshop\\intermediate\\build\\win64\\unrealeditor\\inc\\workshop\\uht\\workshop.init.gen.cpp"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

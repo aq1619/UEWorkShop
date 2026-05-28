@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ylvas\\Documents\\Unreal Projects\\WorkShop\\Intermediate\\Build\\BuildRulesProjects\\WorkShopModuleRules\\WorkShopModuleRules.csproj": {}
+    "C:\\Users\\ylvas\\source\\repos\\UEWorkShop\\WorkShop\\Intermediate\\Build\\BuildRulesProjects\\WorkShopModuleRules\\WorkShopModuleRules.csproj": {}
   },
   "projects": {
     "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj": {
@@ -1164,14 +1164,14 @@
         }
       }
     },
-    "C:\\Users\\ylvas\\Documents\\Unreal Projects\\WorkShop\\Intermediate\\Build\\BuildRulesProjects\\WorkShopModuleRules\\WorkShopModuleRules.csproj": {
+    "C:\\Users\\ylvas\\source\\repos\\UEWorkShop\\WorkShop\\Intermediate\\Build\\BuildRulesProjects\\WorkShopModuleRules\\WorkShopModuleRules.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ylvas\\Documents\\Unreal Projects\\WorkShop\\Intermediate\\Build\\BuildRulesProjects\\WorkShopModuleRules\\WorkShopModuleRules.csproj",
+        "projectUniqueName": "C:\\Users\\ylvas\\source\\repos\\UEWorkShop\\WorkShop\\Intermediate\\Build\\BuildRulesProjects\\WorkShopModuleRules\\WorkShopModuleRules.csproj",
         "projectName": "WorkShopModuleRules",
-        "projectPath": "C:\\Users\\ylvas\\Documents\\Unreal Projects\\WorkShop\\Intermediate\\Build\\BuildRulesProjects\\WorkShopModuleRules\\WorkShopModuleRules.csproj",
+        "projectPath": "C:\\Users\\ylvas\\source\\repos\\UEWorkShop\\WorkShop\\Intermediate\\Build\\BuildRulesProjects\\WorkShopModuleRules\\WorkShopModuleRules.csproj",
         "packagesPath": "C:\\Users\\ylvas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ylvas\\Documents\\Unreal Projects\\WorkShop\\Intermediate\\Build\\BuildRulesProjects\\WorkShopModuleRules\\obj\\",
+        "outputPath": "C:\\Users\\ylvas\\source\\repos\\UEWorkShop\\WorkShop\\Intermediate\\Build\\BuildRulesProjects\\WorkShopModuleRules\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

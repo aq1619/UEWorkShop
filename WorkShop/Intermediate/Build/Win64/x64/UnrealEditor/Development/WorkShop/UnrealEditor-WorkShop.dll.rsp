@@ -36,16 +36,17 @@
 /FUNCTIONPADMIN:6
 /NOIMPLIB
 /NOEXP
-"C:/Users/ylvas/Documents/Unreal Projects/WorkShop/Intermediate/Build/Win64/x64/WorkShopEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h.obj"
-"C:/Users/ylvas/Documents/Unreal Projects/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/Module.WorkShop.gen.cpp.obj"
-"C:/Users/ylvas/Documents/Unreal Projects/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/WorkShop.cpp.obj"
-"C:/Users/ylvas/Documents/Unreal Projects/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/PlayerCharacter.cpp.obj"
-"C:/Users/ylvas/Documents/Unreal Projects/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/PerModuleInline.gen.cpp.obj"
-"C:/Users/ylvas/Documents/Unreal Projects/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/Default.rc2.res"
+"C:/Users/ylvas/source/repos/UEWorkShop/WorkShop/Intermediate/Build/Win64/x64/WorkShopEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h.obj"
+"C:/Users/ylvas/source/repos/UEWorkShop/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/Module.WorkShop.gen.cpp.obj"
+"C:/Users/ylvas/source/repos/UEWorkShop/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/WorkShop.cpp.obj"
+"C:/Users/ylvas/source/repos/UEWorkShop/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/PerModuleInline.gen.cpp.obj"
+"C:/Users/ylvas/source/repos/UEWorkShop/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/PlayerCharacter.cpp.obj"
+"C:/Users/ylvas/source/repos/UEWorkShop/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/Default.rc2.res"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Engine/UnrealEditor-Engine.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Core/UnrealEditor-Core.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/CoreUObject/UnrealEditor-CoreUObject.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/InputCore/UnrealEditor-InputCore.lib"
+"../Plugins/EnhancedInput/Intermediate/Build/Win64/x64/UnrealEditor/Development/EnhancedInput/UnrealEditor-EnhancedInput.lib"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -71,6 +72,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:/Users/ylvas/Documents/Unreal Projects/WorkShop/Binaries/Win64/UnrealEditor-WorkShop.dll"
-/PDB:"C:/Users/ylvas/Documents/Unreal Projects/WorkShop/Binaries/Win64/UnrealEditor-WorkShop.pdb"
+/OUT:"C:/Users/ylvas/source/repos/UEWorkShop/WorkShop/Binaries/Win64/UnrealEditor-WorkShop.dll"
+/PDB:"C:/Users/ylvas/source/repos/UEWorkShop/WorkShop/Binaries/Win64/UnrealEditor-WorkShop.pdb"
 /ignore:4078

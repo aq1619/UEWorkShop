@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorkShopModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9c163b395f587accc022f77e3b7eaaa29444f85")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorkShopModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorkShopModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,12 +1,12 @@
-"C:/Users/ylvas/Documents/Unreal Projects/WorkShop/Source/WorkShop/Private/PlayerCharacter.cpp"
-@"C:/Users/ylvas/Documents/Unreal Projects/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/WorkShop.Shared.rsp"
-/FI"C:/Users/ylvas/Documents/Unreal Projects/WorkShop/Intermediate/Build/Win64/x64/WorkShopEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h"
-/FI"C:/Users/ylvas/Documents/Unreal Projects/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/Definitions.WorkShop.h"
-/Yu"C:/Users/ylvas/Documents/Unreal Projects/WorkShop/Intermediate/Build/Win64/x64/WorkShopEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h"
-/Fp"C:/Users/ylvas/Documents/Unreal Projects/WorkShop/Intermediate/Build/Win64/x64/WorkShopEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h.pch"
-/Fo"C:/Users/ylvas/Documents/Unreal Projects/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/PlayerCharacter.cpp.obj"
-/experimental:log "C:/Users/ylvas/Documents/Unreal Projects/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/PlayerCharacter.cpp.sarif"
-/sourceDependencies "C:/Users/ylvas/Documents/Unreal Projects/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/PlayerCharacter.cpp.dep.json"
+"C:/Users/ylvas/source/repos/UEWorkShop/WorkShop/Source/WorkShop/Private/PlayerCharacter.cpp"
+@"C:/Users/ylvas/source/repos/UEWorkShop/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/WorkShop.Shared.rsp"
+/FI"C:/Users/ylvas/source/repos/UEWorkShop/WorkShop/Intermediate/Build/Win64/x64/WorkShopEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h"
+/FI"C:/Users/ylvas/source/repos/UEWorkShop/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/Definitions.WorkShop.h"
+/Yu"C:/Users/ylvas/source/repos/UEWorkShop/WorkShop/Intermediate/Build/Win64/x64/WorkShopEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h"
+/Fp"C:/Users/ylvas/source/repos/UEWorkShop/WorkShop/Intermediate/Build/Win64/x64/WorkShopEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h.pch"
+/Fo"C:/Users/ylvas/source/repos/UEWorkShop/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/PlayerCharacter.cpp.obj"
+/experimental:log "C:/Users/ylvas/source/repos/UEWorkShop/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/PlayerCharacter.cpp.sarif"
+/sourceDependencies "C:/Users/ylvas/source/repos/UEWorkShop/WorkShop/Intermediate/Build/Win64/x64/UnrealEditor/Development/WorkShop/PlayerCharacter.cpp.dep.json"
 /nologo
 /Oi
 /FC

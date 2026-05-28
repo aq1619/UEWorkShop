@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QHYuxzUqMi8=",
+  "dgSpecHash": "ThM19h2HPks=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ylvas\\Documents\\Unreal Projects\\WorkShop\\Intermediate\\Build\\BuildRulesProjects\\WorkShopModuleRules\\WorkShopModuleRules.csproj",
+  "projectFilePath": "C:\\Users\\ylvas\\source\\repos\\UEWorkShop\\WorkShop\\Intermediate\\Build\\BuildRulesProjects\\WorkShopModuleRules\\WorkShopModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ylvas\\.nuget\\packages\\bitfaster.caching\\2.4.1\\bitfaster.caching.2.4.1.nupkg.sha512",
     "C:\\Users\\ylvas\\.nuget\\packages\\blake3\\1.1.0\\blake3.1.1.0.nupkg.sha512",

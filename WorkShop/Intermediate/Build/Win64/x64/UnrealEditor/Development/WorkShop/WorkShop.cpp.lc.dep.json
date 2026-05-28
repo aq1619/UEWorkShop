@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\ylvas\\documents\\unreal projects\\workshop\\source\\workshop\\workshop.cpp",
+        "Source": "c:\\users\\ylvas\\source\\repos\\ueworkshop\\workshop\\source\\workshop\\workshop.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\ylvas\\documents\\unreal projects\\workshop\\intermediate\\build\\win64\\x64\\workshopeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_4.h.pch",
+        "PCH": "c:\\users\\ylvas\\source\\repos\\ueworkshop\\workshop\\intermediate\\build\\win64\\x64\\workshopeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_4.h.pch",
         "Includes": [
-            "c:\\users\\ylvas\\documents\\unreal projects\\workshop\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\workshop\\definitions.workshop.h",
-            "c:\\users\\ylvas\\documents\\unreal projects\\workshop\\source\\workshop\\workshop.h"
+            "c:\\users\\ylvas\\source\\repos\\ueworkshop\\workshop\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\workshop\\definitions.workshop.h",
+            "c:\\users\\ylvas\\source\\repos\\ueworkshop\\workshop\\source\\workshop\\workshop.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
